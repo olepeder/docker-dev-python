@@ -1,6 +1,6 @@
 # Python dev environment in docker container
 
-Python dev environment running in docker container with debugpy
+Python dev environment running in docker container with debugpy.
 
 Recommended VS Code extensions:
 
